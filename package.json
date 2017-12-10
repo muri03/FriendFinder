@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "node express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muri03/FriendFinder.git"
+  },
+  "author": "Muriel Mangubat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muri03/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/muri03/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
